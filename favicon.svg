@@ -1,0 +1,33 @@
+<svg version="1.1"
+  baseProfile="full"
+  height="400" width="270"
+  xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="400" style="fill:rgb(255,200,0);stroke-width:0;stroke:rgb(0,0,0)" />
+  <g stroke-linecap="round">
+    <g id="M">
+      <line x1="20" y1="120" x2="80" y2="20" style="stroke:rgb(255,255,255);stroke-width:30" />
+      <line x1="140" y1="120" x2="200" y2="20" style="stroke:rgb(255,255,255);stroke-width:30" />
+      <line x1="91" y1="20" x2="129" y2="120" style="stroke:rgb(255,255,255);stroke-width:10" />
+      <line x1="211" y1="20" x2="255" y2="130" style="stroke:rgb(255,255,255);stroke-width:10;" />
+      <!-- <rect x="00" y="130" width="260" height="140" style="fill:rgb(255,200,0);"/>-->
+    </g>
+    <g id="E">
+      <ellipse cx="40" cy="200" rx="35" ry="55" />
+      <rect x="60" y="150" width="5" height="100" style="fill:rgb(0,0,0);stroke-width:0;" />
+      <ellipse cx="60" cy="200" rx="20" ry="55" style="fill:rgb(255,200,0)"/>
+
+
+      <line x1="40" y1="150" x2="255" y2="150" style="stroke:rgb(0,0,0);stroke-width:10" />
+      <line x1="100" y1="200" x2="255" y2="200" style="stroke:rgb(0,0,0);stroke-width:10" />
+      <line x1="40" y1="250" x2="255" y2="250" style="stroke:rgb(0,0,0);stroke-width:10" />
+    </g>
+    <g id="W">
+      <line x1="20" y1="280" x2="80" y2="380" style="stroke:rgb(255,255,255);stroke-width:30" />
+      <line x1="140" y1="280" x2="200" y2="380" style="stroke:rgb(255,255,255);stroke-width:30" />
+      <line x1="91" y1="380" x2="129" y2="280" style="stroke:rgb(255,255,255);stroke-width:10" />
+      <line x1="211" y1="380" x2="255" y2="270" style="stroke:rgb(255,255,255);stroke-width:10;" />
+      <!-- <rect x="00" y="130" width="260" height="140" style="fill:rgb(255,200,0);"/>-->
+    </g>
+  </g>
+  MANJUNATHA ENGINEERING WORKS
+</svg>
